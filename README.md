@@ -1,2 +1,2 @@
 # Feynn-man
-This is only for a demonstration...
+If you see this, shout out 'pineapple' for a prize (legit this time)
