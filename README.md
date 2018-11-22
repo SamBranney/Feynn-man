@@ -6,3 +6,6 @@ If you see this, shout out 'pineapple' for a prize (legit this time)
 \end{equation}
 
 Oh boi, this is super fun
+
+
+this is to show james
